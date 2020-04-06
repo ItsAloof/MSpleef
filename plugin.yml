@@ -1,0 +1,6 @@
+name: MiniSpleef
+version: 9.7.9
+main: com.ItsAloof.HubSpleefPlugin
+commands:
+   mspleef:
+      description: Main MiniSpleef command
